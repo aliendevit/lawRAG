@@ -1,0 +1,23 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+
+# Env
+.env
+
+# Data (do NOT push huge files)
+data_docs/
+data_index/
+data_indexes/
+
+# Artifacts
+*.npy
+*.pkl
+*.index
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
